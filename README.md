@@ -1,1 +1,1 @@
-# Clover-for-Asus-Vivoobook-15-X512FA-R564F
+# Hackintosh Clover for Asus Vivoobook15 X512FA / R564F
