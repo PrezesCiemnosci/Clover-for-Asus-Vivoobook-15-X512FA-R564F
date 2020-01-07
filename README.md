@@ -1,0 +1,1 @@
+# Clover-for-Asus-Vivoobook-15-X512FA-R564F
